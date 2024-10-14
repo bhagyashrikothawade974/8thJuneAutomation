@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[waiting..]]>
+    </line>
+    <line>
+      <![CDATA[clicking on gender button..]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button..]]>
+    </line>
+    <line>
+      <![CDATA[handeling age dropdown..]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button..]]>
+    </line>
+    <line>
+      <![CDATA[enetring pincode..]]>
+    </line>
+    <line>
+      <![CDATA[clicking on continue button..]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[waiting..]]>
+    </line>
+    <line>
+      <![CDATA[clicking on gender button..]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button..]]>
+    </line>
+    <line>
+      <![CDATA[handeling age dropdown..]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button..]]>
+    </line>
+    <line>
+      <![CDATA[enetring mobile number..]]>
+    </line>
+    <line>
+      <![CDATA[clicking on continue button..]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-11T20:48:28 IST" name="Default suite" finished-at="2024-10-11T20:48:50 IST" duration-ms="21724">
+    <groups>
+    </groups>
+    <test started-at="2024-10-11T20:48:28 IST" name="Default test" finished-at="2024-10-11T20:48:50 IST" duration-ms="21724">
+      <class name="coverFoxTest.TC12345_CoverFox_ValidateErrorMsgs">
+        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverFoxTest.TC12345_CoverFox_ValidateErrorMsgs@5bda8e08]" started-at="2024-10-11T20:48:28 IST" name="enterDetails" finished-at="2024-10-11T20:48:38 IST" duration-ms="10005" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+            <line>
+              <![CDATA[waiting..]]>
+            </line>
+            <line>
+              <![CDATA[clicking on gender button..]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button..]]>
+            </line>
+            <line>
+              <![CDATA[handeling age dropdown..]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterDetails -->
+        <test-method signature="validateMobileNumErrorMsg()[pri:0, instance:coverFoxTest.TC12345_CoverFox_ValidateErrorMsgs@5bda8e08]" started-at="2024-10-11T20:48:38 IST" name="validateMobileNumErrorMsg" finished-at="2024-10-11T20:48:38 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[enetring pincode..]]>
+            </line>
+            <line>
+              <![CDATA[clicking on continue button..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateMobileNumErrorMsg -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.TC12345_CoverFox_ValidateErrorMsgs@5bda8e08]" started-at="2024-10-11T20:48:38 IST" name="closeApplication" finished-at="2024-10-11T20:48:39 IST" duration-ms="463" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method is-config="true" signature="enterDetails()[pri:0, instance:coverFoxTest.TC12345_CoverFox_ValidateErrorMsgs@5bda8e08]" started-at="2024-10-11T20:48:39 IST" name="enterDetails" finished-at="2024-10-11T20:48:49 IST" duration-ms="9874" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+            <line>
+              <![CDATA[waiting..]]>
+            </line>
+            <line>
+              <![CDATA[clicking on gender button..]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button..]]>
+            </line>
+            <line>
+              <![CDATA[handeling age dropdown..]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterDetails -->
+        <test-method signature="validatePinCodeErrorMsg()[pri:0, instance:coverFoxTest.TC12345_CoverFox_ValidateErrorMsgs@5bda8e08]" started-at="2024-10-11T20:48:49 IST" name="validatePinCodeErrorMsg" finished-at="2024-10-11T20:48:49 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[enetring mobile number..]]>
+            </line>
+            <line>
+              <![CDATA[clicking on continue button..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatePinCodeErrorMsg -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:coverFoxTest.TC12345_CoverFox_ValidateErrorMsgs@5bda8e08]" started-at="2024-10-11T20:48:49 IST" name="closeApplication" finished-at="2024-10-11T20:48:50 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- coverFoxTest.TC12345_CoverFox_ValidateErrorMsgs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
