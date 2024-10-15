@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -76,7 +77,7 @@ public class TC1234_CoverFox_ValidateBannerCount extends Base {
 		logger.info("validiting results");
 		//Assert.fail();
 		Assert.assertEquals(textCount, bannerCount, "text count not matching with banner count, TC failed");
-		
+		Reporter.log("Code Changed By Amruta",true);
 	}
 
 	// logout From application
