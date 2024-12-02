@@ -1,0 +1,449 @@
+2024-10-22 16:20:30,887 - Automation_Maven_CoverFox -INFO - opening application
+2024-10-22 16:20:43,525 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-10-22 16:20:47,904 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-22 16:21:09,392 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-10-22 16:21:09,503 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-22 16:21:11,594 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-10-22 16:21:11,903 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-10-22 16:21:12,052 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-10-22 16:21:15,283 - Automation_Maven_CoverFox -INFO - validating results
+2024-10-22 16:21:16,387 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-10-22 16:35:19,131 - Automation_Maven_CoverFox -INFO - opening application
+2024-10-22 16:35:23,747 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-10-22 16:35:24,942 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-22 16:35:37,821 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-10-22 16:35:38,009 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-22 16:35:39,026 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-10-22 16:35:39,846 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-10-22 16:35:39,847 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-10-22 16:35:40,133 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-10-22 16:35:40,318 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-10-22 16:35:44,244 - Automation_Maven_CoverFox -INFO - validating results
+2024-10-22 16:35:45,337 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-10-22 16:45:46,846 - Automation_Maven_CoverFox -INFO - opening application
+2024-10-22 16:45:49,658 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-10-22 16:45:50,870 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-22 16:45:59,229 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-10-22 16:45:59,341 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-22 16:46:00,356 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-10-22 16:46:01,028 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-10-22 16:46:01,029 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-10-22 16:46:01,282 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-10-22 16:46:01,385 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-10-22 16:46:01,386 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-10-22 16:46:04,652 - Automation_Maven_CoverFox -INFO - validating results
+2024-10-22 16:46:05,283 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-10-23 16:13:31,852 - Automation_Maven_CoverFox -INFO - opening application
+2024-10-23 16:13:40,154 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-10-23 16:13:41,342 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 16:13:57,870 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-10-23 16:13:57,969 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 16:13:58,977 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-10-23 16:13:59,699 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-10-23 16:13:59,700 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-10-23 16:13:59,893 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-10-23 16:14:00,011 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-10-23 16:14:00,014 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-10-23 16:14:03,274 - Automation_Maven_CoverFox -INFO - validating results
+2024-10-23 16:14:03,529 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-10-23 16:19:58,770 - Automation_Maven_CoverFox -INFO - opening application
+2024-10-23 16:20:01,795 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-10-23 16:20:02,925 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 16:20:05,439 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-10-23 16:20:05,529 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 16:20:06,539 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-10-23 16:20:13,210 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-10-23 16:20:13,212 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-10-23 16:20:13,432 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-10-23 16:20:13,546 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-10-23 16:20:13,546 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-10-23 16:20:16,963 - Automation_Maven_CoverFox -INFO - validating results
+2024-10-23 16:20:17,374 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-10-23 22:06:53,206 - Automation_Maven_CoverFox -INFO - opening application
+2024-10-23 22:06:58,589 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-10-23 22:06:59,743 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 22:07:14,493 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-10-23 22:07:14,581 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 22:07:15,584 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-10-23 22:07:16,503 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-10-23 22:07:16,504 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-10-23 22:07:16,707 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-10-23 22:07:16,818 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-10-23 22:07:16,819 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-10-23 22:07:20,121 - Automation_Maven_CoverFox -INFO - validating results
+2024-10-23 22:07:20,872 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-10-23 22:07:47,615 - Automation_Maven_CoverFox -INFO - opening application
+2024-10-23 22:07:49,715 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-10-23 22:07:50,867 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 22:07:52,495 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-10-23 22:07:52,592 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 22:07:53,608 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-10-23 22:08:02,585 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-10-23 22:08:03,085 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-10-23 22:08:03,088 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-10-23 22:08:03,455 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-10-23 22:08:22,847 - Automation_Maven_CoverFox -INFO - opening application
+2024-10-23 22:08:24,659 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-10-23 22:08:25,878 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 22:08:29,065 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-10-23 22:08:29,143 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-10-23 22:08:30,161 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-10-23 22:08:31,123 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-10-23 22:08:31,238 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-10-23 22:08:31,239 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-10-23 22:08:31,348 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 18:11:16,884 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 18:11:25,460 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 18:11:28,902 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:11:49,449 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 18:11:49,733 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:11:50,743 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 18:11:51,163 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 18:11:51,164 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 18:11:51,376 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 18:11:51,971 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 18:11:51,972 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 18:11:55,629 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 18:11:56,420 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 18:12:19,989 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 18:12:21,753 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 18:12:23,355 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:12:30,989 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 18:12:31,129 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:12:32,140 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 18:12:32,726 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 18:12:32,867 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 18:12:32,869 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 18:12:33,176 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 18:12:52,994 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 18:12:54,510 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 18:12:55,653 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:13:03,784 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 18:13:03,918 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:13:04,934 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 18:13:06,138 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 18:13:06,345 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 18:13:06,348 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 18:13:06,843 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 18:15:25,705 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 18:15:29,706 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 18:15:31,007 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:15:37,259 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 18:15:37,381 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:15:38,396 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 18:15:38,737 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 18:15:38,738 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 18:15:38,945 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 18:15:39,090 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 18:15:39,091 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 18:15:42,323 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 18:15:42,854 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 18:15:51,175 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 18:15:56,848 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 18:15:58,108 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:15:59,627 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 18:15:59,748 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:16:00,762 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 18:16:00,971 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 18:16:01,086 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 18:16:01,086 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 18:16:01,197 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 18:16:12,307 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 18:16:14,351 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 18:16:15,465 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:16:17,920 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 18:16:18,069 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 18:16:19,080 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 18:16:19,275 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 18:16:19,397 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 18:16:19,397 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 18:16:19,507 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:52:13,790 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:52:22,814 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:52:24,332 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:52:37,558 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:52:37,694 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:52:39,044 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 19:52:39,681 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 19:52:39,682 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 19:52:39,883 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 19:52:40,023 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:52:40,024 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:52:43,204 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 19:52:43,771 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:52:59,009 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:53:00,347 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:53:01,472 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:53:04,051 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:53:04,195 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:53:05,202 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 19:53:05,389 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 19:53:05,505 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:53:05,508 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:53:05,669 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:53:15,403 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:53:16,552 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:53:17,679 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:53:19,602 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:53:19,760 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:53:20,769 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 19:53:21,052 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 19:53:21,172 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:53:21,173 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:53:21,292 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:54:32,310 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:54:36,306 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:54:37,471 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:54:39,793 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:54:39,925 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:54:40,929 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 19:54:41,418 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 19:54:41,419 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 19:54:41,691 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 19:54:41,835 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:54:41,837 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:54:44,920 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 19:54:47,569 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:55:05,484 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:55:06,702 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:55:07,832 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:55:10,018 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:55:10,148 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:55:11,155 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 19:55:11,363 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 19:55:11,479 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:55:11,480 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:55:11,609 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:55:22,388 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:55:23,664 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:55:25,051 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:55:26,842 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:55:26,955 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:55:27,966 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 19:55:28,179 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 19:55:28,319 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:55:28,320 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:55:28,424 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:57:31,539 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:57:40,236 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:57:45,297 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:57:53,594 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:57:53,784 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:57:54,792 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 19:57:55,285 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 19:57:55,285 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 19:57:55,514 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 19:57:55,685 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:57:55,686 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:57:58,836 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 19:57:59,448 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:58:12,256 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:58:13,420 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:58:14,629 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:58:16,568 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:58:16,749 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:58:17,761 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 19:58:18,031 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 19:58:18,162 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:58:18,163 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:58:18,295 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 19:58:29,662 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 19:58:32,084 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 19:58:33,296 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:58:35,215 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 19:58:35,569 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 19:58:36,573 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 19:58:36,932 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 19:58:37,097 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 19:58:37,098 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 19:58:37,295 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:00:35,807 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:00:37,228 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:00:38,379 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:00:41,785 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:00:41,962 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:00:42,973 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:00:43,275 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:00:43,275 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:00:43,507 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:00:43,669 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:00:43,670 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:00:46,878 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 20:00:47,226 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:01:00,983 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:01:02,277 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:01:05,211 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:01:06,621 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:01:06,801 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:01:07,818 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:01:08,222 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:01:08,429 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:01:08,436 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:01:08,694 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:01:14,521 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:01:20,876 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:01:22,142 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:01:40,219 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:01:40,881 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:01:41,889 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:01:42,145 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:01:42,293 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:01:42,293 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:01:42,458 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:03:30,559 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:03:32,164 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:03:33,540 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:03:36,529 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:03:36,713 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:03:37,714 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:04:30,122 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:04:31,379 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:04:33,421 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:04:38,056 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:04:38,207 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:04:39,224 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:04:40,091 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:04:40,289 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:04:40,289 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:04:40,775 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:05:06,677 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:05:08,808 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:05:11,436 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:05:12,839 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:05:12,988 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:05:14,005 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:05:14,455 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:05:14,691 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:05:14,692 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:05:14,887 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:06:32,242 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:06:33,769 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:06:34,950 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:06:41,189 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:06:41,306 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:06:42,309 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:06:42,522 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:06:42,523 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:06:42,703 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:06:42,875 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:06:42,876 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:06:46,053 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 20:06:46,744 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:07:00,365 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:07:13,663 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:07:16,343 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:07:17,895 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:07:18,374 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:07:19,388 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:07:20,034 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:07:20,280 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:07:20,282 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:07:20,472 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:07:35,633 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:07:42,387 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:07:43,577 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:07:50,635 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:07:50,745 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:07:51,759 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:08:09,523 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:08:09,905 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:08:09,906 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:08:10,554 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:08:21,636 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:08:25,026 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:08:27,429 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:08:35,343 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:08:35,467 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:08:36,477 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:08:36,710 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:08:36,711 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:08:36,899 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:08:37,079 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:08:37,081 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:08:40,172 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 20:08:40,821 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:09:03,088 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:09:04,454 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:09:05,593 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:12:27,436 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:12:28,554 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:12:29,714 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:12:32,872 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:12:33,037 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:12:34,039 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:12:34,270 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:12:34,270 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:12:34,469 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:12:34,623 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:12:34,625 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:12:37,745 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 20:12:37,931 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:12:48,416 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:12:49,509 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:12:50,635 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:15:21,863 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:15:32,097 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:15:33,257 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:15:36,941 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:15:37,157 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:15:38,160 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:15:38,408 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:15:38,410 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:15:38,735 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:15:38,922 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:15:38,923 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:15:42,035 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-01 20:15:42,336 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:16:01,174 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:16:02,360 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:16:03,503 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:16:05,684 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:16:05,824 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:16:06,844 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-01 20:16:07,059 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-01 20:16:07,185 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:16:07,186 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:16:07,303 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-01 20:16:18,709 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-01 20:16:19,827 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-01 20:16:20,951 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:16:23,475 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-01 20:16:23,667 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-01 20:16:24,681 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-01 20:16:24,997 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-01 20:16:25,149 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-01 20:16:25,149 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-01 20:16:25,254 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-02 16:20:38,900 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-02 16:20:42,972 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-02 16:20:44,157 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-02 16:21:04,191 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-02 16:21:04,318 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-02 16:21:05,324 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-02 16:21:06,515 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-02 16:21:06,516 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-02 16:21:06,777 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-02 16:21:06,921 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-02 16:21:06,922 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-02 16:21:10,495 - Automation_Maven_CoverFox -INFO - validating results
+2024-12-02 16:21:10,913 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-02 16:21:35,195 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-02 16:21:36,791 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-02 16:21:38,019 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-02 16:21:40,033 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-02 16:21:40,181 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-02 16:21:41,234 - Automation_Maven_CoverFox -WARN - Enter valid mobile number
+2024-12-02 16:21:41,579 - Automation_Maven_CoverFox -INFO - Entering mobile number
+2024-12-02 16:21:41,707 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-02 16:21:41,708 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-02 16:21:41,803 - Automation_Maven_CoverFox -INFO - Closing browser
+2024-12-02 16:22:07,648 - Automation_Maven_CoverFox -INFO - opening application
+2024-12-02 16:22:09,733 - Automation_Maven_CoverFox -INFO - Clicking on gender button
+2024-12-02 16:22:10,968 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-02 16:22:13,625 - Automation_Maven_CoverFox -INFO - handling age drop down
+2024-12-02 16:22:13,780 - Automation_Maven_CoverFox -INFO - Clicking on next button
+2024-12-02 16:22:14,784 - Automation_Maven_CoverFox -WARN - Enter valid pin code
+2024-12-02 16:22:14,991 - Automation_Maven_CoverFox -INFO - Entering pin code
+2024-12-02 16:22:15,114 - Automation_Maven_CoverFox -INFO - Clicking on continue button
+2024-12-02 16:22:15,115 - Automation_Maven_CoverFox -ERROR - Please check details again
+2024-12-02 16:22:15,243 - Automation_Maven_CoverFox -INFO - Closing browser
