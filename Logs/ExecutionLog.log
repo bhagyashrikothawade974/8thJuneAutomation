@@ -306,3 +306,36 @@
 2024-10-15 20:14:11,589 - 8th_June_CoverFox -INFO - Clicking on continue button
 2024-10-15 20:14:11,592 - 8th_June_CoverFox -ERROR - Please check details again
 2024-10-15 20:14:11,950 - 8th_June_CoverFox -INFO - closing browswr
+2024-12-28 20:29:20,750 - 8th_June_CoverFox -INFO - opening application
+2024-12-28 20:29:25,352 - 8th_June_CoverFox -INFO - Clicking on gender button
+2024-12-28 20:29:32,945 - 8th_June_CoverFox -INFO - Clicking on next button
+2024-12-28 20:29:42,728 - 8th_June_CoverFox -INFO - hadeling age drop down
+2024-12-28 20:29:42,925 - 8th_June_CoverFox -INFO - Clicking on next button
+2024-12-28 20:29:43,930 - 8th_June_CoverFox -WARN - enter valid pin code
+2024-12-28 20:29:49,189 - 8th_June_CoverFox -INFO - entering pin code
+2024-12-28 20:29:49,209 - 8th_June_CoverFox -WARN - enter valid mobile number
+2024-12-28 20:29:49,530 - 8th_June_CoverFox -INFO - entering mobile number
+2024-12-28 20:29:49,665 - 8th_June_CoverFox -INFO - Clicking on continue button
+2024-12-28 20:29:49,666 - 8th_June_CoverFox -ERROR - Please check details again
+2024-12-28 20:30:01,877 - 8th_June_CoverFox -INFO - validiting results
+2024-12-28 20:30:02,149 - 8th_June_CoverFox -INFO - closing browser
+2024-12-28 20:30:28,405 - 8th_June_CoverFox -INFO - opening application
+2024-12-28 20:30:31,758 - 8th_June_CoverFox -INFO - Clicking on gender button
+2024-12-28 20:30:33,374 - 8th_June_CoverFox -INFO - Clicking on next button
+2024-12-28 20:30:34,892 - 8th_June_CoverFox -INFO - hadeling age drop down
+2024-12-28 20:30:35,011 - 8th_June_CoverFox -INFO - Clicking on next button
+2024-12-28 20:30:36,025 - 8th_June_CoverFox -WARN - enter valid mobile number
+2024-12-28 20:30:36,323 - 8th_June_CoverFox -INFO - entering mobile number
+2024-12-28 20:30:36,444 - 8th_June_CoverFox -INFO - Clicking on continue button
+2024-12-28 20:30:36,445 - 8th_June_CoverFox -ERROR - Please check details again
+2024-12-28 20:30:36,769 - 8th_June_CoverFox -INFO - closing browswr
+2024-12-28 20:30:53,095 - 8th_June_CoverFox -INFO - opening application
+2024-12-28 20:30:54,216 - 8th_June_CoverFox -INFO - Clicking on gender button
+2024-12-28 20:30:56,236 - 8th_June_CoverFox -INFO - Clicking on next button
+2024-12-28 20:30:57,519 - 8th_June_CoverFox -INFO - hadeling age drop down
+2024-12-28 20:30:57,646 - 8th_June_CoverFox -INFO - Clicking on next button
+2024-12-28 20:30:58,658 - 8th_June_CoverFox -WARN - enter valid pin code
+2024-12-28 20:30:58,989 - 8th_June_CoverFox -INFO - entering pin code
+2024-12-28 20:30:59,115 - 8th_June_CoverFox -INFO - Clicking on continue button
+2024-12-28 20:30:59,116 - 8th_June_CoverFox -ERROR - Please check details again
+2024-12-28 20:30:59,222 - 8th_June_CoverFox -INFO - closing browswr
