@@ -85,6 +85,7 @@ public class TC1234_CoverFox_ValidateBannerCount extends Base{
 	//Assert.fail();
 	Utility.takeScreenShot(driver, "TC12345");
 	Reporter.log("taken screenshot..");
+	Reporter.log("code changed by me",true);
   }
   
   //logout from application
